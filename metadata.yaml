@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37541'
     url: http://www.gutenberg.org/2009/agents/37541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35190#Torrent-of-Portyngale
 gutenberg_bookshelf: Early English Text Society
 gutenberg_issued: '2011-02-09'
 gutenberg_type: Text
