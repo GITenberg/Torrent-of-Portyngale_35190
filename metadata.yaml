@@ -1,0 +1,27 @@
+_repo: Torrent-of-Portyngale_35190
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Adam, E. (Erich)
+    alias: Adam, Erich
+    gutenberg_agent_id: '37541'
+    url: http://www.gutenberg.org/2009/agents/37541
+description: ''
+gutenberg_bookshelf: Early English Text Society
+gutenberg_issued: '2011-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romances, English'
+- !lcsh 'Knights and knighthood -- Poetry'
+- !lcc 'PR'
+title: Torrent of Portyngale
+url: http://www.gutenberg.org/ebooks/35190
